@@ -39,30 +39,6 @@
       "image": "./assets/ramen/kojiro.jpg",
       "rating": 6,
       "comment": "Perfect for a cold night."
-    },
-    {
-      "name": "a",
-      "restaurant": "",
-      "image": "",
-      "rating": "",
-      "comment": "",
-      "id": 6
-    },
-    {
-      "name": "name",
-      "restaurant": "rest",
-      "image": "https://www.shutterstock.com/image-photo/sapporo-miso-ramen-bowl-260nw-1834868050.jpg",
-      "rating": "5",
-      "comment": "comm",
-      "id": 7
-    },
-    {
-      "name": "test2",
-      "restaurant": "rest2",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Deux.svg/800px-Deux.svg.png",
-      "rating": "2",
-      "comment": "2",
-      "id": 8
     }
   ]
 }
